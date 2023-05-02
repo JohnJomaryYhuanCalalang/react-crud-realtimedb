@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-crud-realtimedb/static/css/main.c303df8d.css",
+    "main.js": "/react-crud-realtimedb/static/js/main.8300587c.js",
+    "static/js/787.5a9d9cc2.chunk.js": "/react-crud-realtimedb/static/js/787.5a9d9cc2.chunk.js",
+    "index.html": "/react-crud-realtimedb/index.html",
+    "main.c303df8d.css.map": "/react-crud-realtimedb/static/css/main.c303df8d.css.map",
+    "main.8300587c.js.map": "/react-crud-realtimedb/static/js/main.8300587c.js.map",
+    "787.5a9d9cc2.chunk.js.map": "/react-crud-realtimedb/static/js/787.5a9d9cc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c303df8d.css",
+    "static/js/main.8300587c.js"
+  ]
+}
